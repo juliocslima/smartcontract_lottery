@@ -20,6 +20,6 @@ networks:
     fee: 100000000000000000
     verify: True
   mainnet-fork:
-    eth_usd_price_feed: "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419"
+    eth_usd_price_feed: "0x59B331CCCC3d65eCD1187F9309F95bE7aC14A5A6"
 wallets:
   from_key: ${PRIVATE_KEY}
